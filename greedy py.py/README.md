@@ -1,0 +1,2 @@
+# greedy.py
+This is my solution to the greedy.py challenge in problem set 6 of Harvard’s online CS50 course. greedy.py allows the user to enter an amount of change that is due to a customer and tells the user the minimum number and type of bills and coins needed to produce that change. For example, if a customer is due $2.28 in change, the program will tell the user that 2 bills (2 one dollar bills) and 4 coins (1 quarter and 3 pennies) are needed to produce the required change. 
